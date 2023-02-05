@@ -4,3 +4,10 @@ h1 {
     font-family: "Brush Script MT", cursive;
     color: #c516e0;
 }
+
+ul > a {
+    font-family: cursive;
+    font-weight: 800;
+    font-size: 20px;
+    color: rgb(207, 12, 122);
+}
